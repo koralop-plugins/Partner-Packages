@@ -1,0 +1,5 @@
+name: PPGreekHCF
+version: 1.0.0
+api: [3.20.0]
+author: Koralop
+main: GreekHCF\Greek
